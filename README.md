@@ -53,9 +53,9 @@ Then, I filtered my dataframe by locking cities with ideal weather conditions, s
 
 -Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal
 
-I located the first hotel within a 5000 meter radius of the coordinates for each city. After pulling my results, I plotted the location of the hotels with markers. 
+Finally, I located the first hotel within a 5000 meter radius of the coordinates for each city. After pulling my results, I plotted the each hotel as a marker with their corresponding latitude and longitude. 
 
 ### Hotel Map
 <img width="1088" alt="Screen Shot 2021-11-13 at 2 12 32 PM" src="https://user-images.githubusercontent.com/86134771/141660584-56e318cc-e71d-4272-a708-73f9510805fa.png">
 
-
+I hope you enjoy your next vacation in Maun at the Enviro Villa Hotel!
