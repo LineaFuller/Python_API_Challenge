@@ -34,7 +34,7 @@ I located ideal vacation destinations using jupyter gmaps and Google Places API.
 I first created a heatmap based on the humidity levels of each city. 
 ### Humidity Map
 
-(![<img width="604" alt="Screen Shot 2021-11-13 at 2 11 45 PM" src="https://user-images.githubusercontent.com/86134771/141660542-adf22ffa-dec5-4d68-bf8a-6e954e4b1215.png">])
+<img width="604" alt="Screen Shot 2021-11-13 at 2 11 45 PM" src="https://user-images.githubusercontent.com/86134771/141660542-adf22ffa-dec5-4d68-bf8a-6e954e4b1215.png">
 
 Then, I filtered my dataframe by locking cities with ideal weather conditions, such as the following:
 
