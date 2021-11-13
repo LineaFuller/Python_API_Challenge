@@ -34,6 +34,7 @@ Then, I ran a linear regression and further analyzed the results from my calcula
 -Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 **Observations**
+According to my findings there is no significant relationship between latitude and wind speed. The two variables produced a r-value of 0.03 signifying a weak linear relationship. The insignificant observation holds true for the relationship between latitude and cloudiness. On the other hand, there is a strong correlation between Maximum temperature and latitude: as latitudes move farther north of the equator the max temperature decrease. Whereas, temperatures increase as latitudes move south of the equator. 
 
 ## Vacation
 I located ideal vacation destinations using jupyter gmaps and Google Places API. 
