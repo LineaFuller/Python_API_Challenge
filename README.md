@@ -9,7 +9,7 @@ Utilizing Python Library and OpenWeatherMap API, I constructed a series of scatt
 
 -Temperature (F) vs. Latitude
 
-__Humidity (%) vs. Latitude
+-Humidity (%) vs. Latitude
 
 -Cloudiness (%) vs. Latitude
 
