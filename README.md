@@ -1,10 +1,10 @@
 # Python_API_Challenge
 
-##Background 
+## Background 
 What are the best cities to travel too with the best weather? 
 I was able to definitevly answer these questions with representative visualizations of data by successfully constructing multiple API calls. For this challenge, I created analytical visualizations of the weather across 500+ cities worldwide and examined their vacation potential using the Google Maps API. 
 
-##Weather
+## Weather
 Utilizing Python Library and OpenWeatherMap API, I constructed a series of scatterplots comparing and explaining the following relationships:
 
 Temperature (F) vs. Latitude
@@ -23,7 +23,7 @@ Southern Hemisphere - Cloudiness (%) vs. Latitude
 Northern Hemisphere - Wind Speed (mph) vs. Latitude
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-##Vacation
+## Vacation
 I located ideal vacation destinations using jupyter gmaps and Google Places API. I first created a heatmap based on the humidity levels of each city. Then, I filtered my dataframe by locking cities with ideal weather conditions, such as the following:
 
 A max temperature lower than 80 degrees but higher than 70
