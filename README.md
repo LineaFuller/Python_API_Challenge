@@ -8,8 +8,11 @@ I was able to definitevly answer these questions with representative visualizati
 Utilizing Python Library and OpenWeatherMap API, I constructed a series of scatterplots comparing and explaining the following relationships:
 
 *Temperature (F) vs. Latitude
+
 *Humidity (%) vs. Latitude
+
 *Cloudiness (%) vs. Latitude
+
 -Wind Speed (mph) vs. Latitude
 
 Then, I ran a linear regression and further analyzed the results from my calculations regarding the following relationships: 
@@ -26,7 +29,14 @@ Then, I ran a linear regression and further analyzed the results from my calcula
 **Observations**
 
 ## Vacation
-I located ideal vacation destinations using jupyter gmaps and Google Places API. I first created a heatmap based on the humidity levels of each city. Then, I filtered my dataframe by locking cities with ideal weather conditions, such as the following:
+I located ideal vacation destinations using jupyter gmaps and Google Places API. 
+
+I first created a heatmap based on the humidity levels of each city. 
+### Humidity Map
+
+(![<img width="604" alt="Screen Shot 2021-11-13 at 2 11 45 PM" src="https://user-images.githubusercontent.com/86134771/141660542-adf22ffa-dec5-4d68-bf8a-6e954e4b1215.png">])
+
+Then, I filtered my dataframe by locking cities with ideal weather conditions, such as the following:
 
 -A max temperature lower than 80 degrees but higher than 70
 -Wind speed less than 10 mph
@@ -34,3 +44,4 @@ I located ideal vacation destinations using jupyter gmaps and Google Places API.
 -Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal
 
 I located the first hotel within a 5000 meter radius of the coordinates for each city. After pulling my results, I plotted the location of the hotels with markers. 
+
