@@ -45,3 +45,7 @@ Then, I filtered my dataframe by locking cities with ideal weather conditions, s
 
 I located the first hotel within a 5000 meter radius of the coordinates for each city. After pulling my results, I plotted the location of the hotels with markers. 
 
+### Hotel Map
+<img width="1088" alt="Screen Shot 2021-11-13 at 2 12 32 PM" src="https://user-images.githubusercontent.com/86134771/141660584-56e318cc-e71d-4272-a708-73f9510805fa.png">
+
+
