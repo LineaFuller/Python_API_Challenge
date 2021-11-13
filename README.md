@@ -7,11 +7,11 @@ I was able to definitevly answer these questions with representative visualizati
 ## Weather
 Utilizing Python Library and OpenWeatherMap API, I constructed a series of scatterplots comparing and explaining the following relationships:
 
-*Temperature (F) vs. Latitude
+-Temperature (F) vs. Latitude
 
-*Humidity (%) vs. Latitude
+__Humidity (%) vs. Latitude
 
-*Cloudiness (%) vs. Latitude
+-Cloudiness (%) vs. Latitude
 
 -Wind Speed (mph) vs. Latitude
 
